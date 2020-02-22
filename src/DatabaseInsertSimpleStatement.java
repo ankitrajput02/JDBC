@@ -18,8 +18,5 @@ public class DatabaseInsertSimpleStatement {
 		System.out.println(count+"row affected");
 		st.close();
 		con.close();
-
-
 	}
-
 }

@@ -1,4 +1,5 @@
 import java.sql.*;
+
 public class DatabaseConnectivityDemo {
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
